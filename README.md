@@ -5,4 +5,4 @@
 
 `npm install parcel -g`
 
-parcel index.html
+`parcel index.html`
